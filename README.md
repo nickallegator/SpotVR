@@ -1,2 +1,2 @@
 # SpotVR
-SPOT VR project reponsitory for CS Capstone.
+SPOT VR project repository for CS Capstone.
