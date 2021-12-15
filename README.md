@@ -8,7 +8,6 @@ Capstone II Project Plan: https://docs.google.com/spreadsheets/d/1_UZUQLmvFmKRdl
 
 JIRA: https://error-variable-teamname.atlassian.net/jira/software/projects/SV/boards/1
 
-## Data Conversion Links
-Pre-configured VM download: https://mega.nz/file/NwRw1DYC#7JcqtmG7NMcHNVSGy2W7cDcSXq4lSb2MrT1lRP1L1Fk
-
+## Data Conversion
 Livox Mapping Library: https://github.com/Livox-SDK/livox_mapping
+Pre-configured Ubuntu18 VM download: https://mega.nz/file/NwRw1DYC#7JcqtmG7NMcHNVSGy2W7cDcSXq4lSb2MrT1lRP1L1Fk
